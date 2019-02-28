@@ -1,4 +1,4 @@
-# A Pure Function Succinct String Self-Index in Scala
+# A Pure Functional Succinct String Self-Index in Scala
 
 NOTE:  This is a work-in-progress.
 
