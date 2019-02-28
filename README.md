@@ -20,4 +20,5 @@ The data structure is a variant of the compressed suffix array that is widely us
 # Contributors
 
 [William Harvey](https://github.com/harveywi/)
+
 [Suyog Kulkarni](https://github.com/ksuyog)
